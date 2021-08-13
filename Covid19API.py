@@ -1,3 +1,8 @@
+"""
+This is the program for covid_19 API.
+Author: Gurleen Kaur
+Date: 08-08-2021
+"""
 import requests
 import json
 
